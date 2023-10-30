@@ -1,1 +1,1 @@
-# Creating_-Blogs_Using_Wordpress
+# Creating_-Blog_Using_Wordpress
